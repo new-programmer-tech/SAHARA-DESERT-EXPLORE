@@ -122,25 +122,25 @@ li {
 }
 
 .card1 {
-  background: url(../images/pic-1.png);
+  background: url(/images/pic-1.png);
   background-position: center;
   background-size: cover;
 }
 
 .card2 {
-  background: url(../images/pic-2.png);
+  background: url(/images/pic-2.png);
   background-position: center;
   background-size: cover;
 }
 
 .card3 {
-  background: url(../images/pic-3.png);
+  background: url(/images/pic-3.png);
   background-position: center;
   background-size: cover;
 }
 
 .card4 {
-  background: url(../images/pic-4.png);
+  background: url(/images/pic-4.png);
   background-position: center;
   background-size: cover;
 }
