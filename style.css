@@ -132,7 +132,7 @@ li {
   background: url(images/pic-2.png);
   background-position: center;
   background-size: cover;
-  flex:1;
+  margin-right:3rem;
 }
 
 .card3 {
